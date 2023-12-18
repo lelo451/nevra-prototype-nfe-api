@@ -9,34 +9,36 @@
         <Filename Value="RestServer.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="22"/>
-        <CursorPos X="2" Y="39"/>
-        <UsageCount Value="48"/>
+        <TopLine Value="23"/>
+        <CursorPos X="16" Y="46"/>
+        <UsageCount Value="49"/>
         <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="domain\service\nfeservice.pas"/>
         <IsPartOfProject Value="True"/>
         <UnitName Value="nfeService"/>
-        <EditorIndex Value="-1"/>
-        <CursorPos X="16"/>
-        <UsageCount Value="47"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="117"/>
+        <CursorPos X="45" Y="133"/>
+        <UsageCount Value="48"/>
         <Bookmarks Count="1">
           <Item0 Y="490"/>
         </Bookmarks>
+        <Loaded Value="True"/>
       </Unit>
       <Unit>
         <Filename Value="modules\horse-compression\src\Horse.Compression.pas"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="19"/>
         <CursorPos X="10" Y="21"/>
-        <UsageCount Value="8"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="D:\ACBr\Fontes\ACBrDFe\ACBrNFe\ACBrNFe.pas"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="52"/>
-        <UsageCount Value="9"/>
+        <UsageCount Value="8"/>
       </Unit>
       <Unit>
         <Filename Value="application\controller\nfecontroller.pas"/>
@@ -44,7 +46,7 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="3"/>
         <CursorPos X="38" Y="31"/>
-        <UsageCount Value="19"/>
+        <UsageCount Value="18"/>
       </Unit>
       <Unit>
         <Filename Value="modules\horse\src\Horse.pas"/>
@@ -58,69 +60,69 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="3810"/>
         <CursorPos X="21" Y="3827"/>
-        <UsageCount Value="9"/>
+        <UsageCount Value="8"/>
       </Unit>
       <Unit>
         <Filename Value="D:\ACBr\Fontes\ACBrDFe\ACBrNFe\PCNNFe\pcnNFe.pas"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="1942"/>
         <CursorPos X="14" Y="1959"/>
-        <UsageCount Value="15"/>
+        <UsageCount Value="14"/>
       </Unit>
       <Unit>
         <Filename Value="..\..\fpcsrc\rtl\inc\objpash.inc"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="202"/>
         <CursorPos X="8" Y="201"/>
-        <UsageCount Value="8"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="modules\horse\src\Horse.Core.RouterTree.NextCaller.pas"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="90"/>
         <CursorPos Y="96"/>
-        <UsageCount Value="8"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="D:\ACBr\Fontes\PCNComum\pcnGerador.pas"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="53"/>
         <CursorPos X="3" Y="69"/>
-        <UsageCount Value="11"/>
+        <UsageCount Value="10"/>
       </Unit>
       <Unit>
         <Filename Value="..\..\ccr\mORMot2\src\core\mormot.core.variants.pas"/>
         <EditorIndex Value="-1"/>
-        <TopLine Value="5856"/>
-        <CursorPos Y="5871"/>
-        <UsageCount Value="14"/>
+        <TopLine Value="6884"/>
+        <CursorPos Y="6899"/>
+        <UsageCount Value="13"/>
       </Unit>
       <Unit>
         <Filename Value="..\..\fpcsrc\packages\rtl-objpas\src\inc\variants.pp"/>
         <UnitName Value="Variants"/>
         <EditorIndex Value="-1"/>
-        <UsageCount Value="8"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="D:\ACBr\Fontes\PCNComum\pcnSignature.pas"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="43"/>
         <CursorPos X="14" Y="73"/>
-        <UsageCount Value="11"/>
+        <UsageCount Value="10"/>
       </Unit>
       <Unit>
         <Filename Value="D:\ACBr\Fontes\ACBrDFe\ACBrNFe\PCNNFe\pcnProcNFe.pas"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="87"/>
         <CursorPos X="22" Y="105"/>
-        <UsageCount Value="11"/>
+        <UsageCount Value="10"/>
       </Unit>
       <Unit>
         <Filename Value="D:\ACBr\Fontes\ACBrComum\ACBrBase.pas"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="186"/>
         <CursorPos X="3" Y="196"/>
-        <UsageCount Value="8"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="..\..\fpcsrc\packages\fcl-base\src\contnrs.pp"/>
@@ -128,35 +130,35 @@
         <EditorIndex Value="-1"/>
         <TopLine Value="64"/>
         <CursorPos X="3" Y="74"/>
-        <UsageCount Value="8"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="..\..\fpcsrc\rtl\objpas\classes\classesh.inc"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="331"/>
         <CursorPos X="14" Y="345"/>
-        <UsageCount Value="8"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="..\..\fpcsrc\rtl\objpas\objpas.pp"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="19"/>
         <CursorPos X="8" Y="35"/>
-        <UsageCount Value="8"/>
+        <UsageCount Value="7"/>
       </Unit>
       <Unit>
         <Filename Value="D:\ACBr\Fontes\ACBrDFe\ACBrNFe\PCNNFe\pcnConversaoNFe.pas"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="642"/>
         <CursorPos X="20" Y="669"/>
-        <UsageCount Value="13"/>
+        <UsageCount Value="12"/>
       </Unit>
       <Unit>
         <Filename Value="D:\ACBr\Fontes\PCNComum\pcnConversao.pas"/>
         <EditorIndex Value="-1"/>
         <TopLine Value="303"/>
         <CursorPos X="10" Y="319"/>
-        <UsageCount Value="13"/>
+        <UsageCount Value="12"/>
       </Unit>
       <Unit>
         <Filename Value="application\controller\nfecontroller.pas"/>
@@ -174,7 +176,7 @@
         <UsageCount Value="10"/>
       </Unit>
     </Units>
-    <JumpHistory HistoryIndex="5">
+    <JumpHistory HistoryIndex="11">
       <Position>
         <Filename Value="RestServer.lpr"/>
         <Caret Line="28" Column="29" TopLine="11"/>
@@ -198,6 +200,30 @@
       <Position>
         <Filename Value="RestServer.lpr"/>
         <Caret Line="53" Column="31" TopLine="27"/>
+      </Position>
+      <Position>
+        <Filename Value="RestServer.lpr"/>
+        <Caret Line="31" Column="30" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="domain\service\nfeservice.pas"/>
+        <Caret Line="118" Column="14" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="domain\service\nfeservice.pas"/>
+        <Caret Line="134" Column="92" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="domain\service\nfeservice.pas"/>
+        <Caret Line="129" Column="38" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="domain\service\nfeservice.pas"/>
+        <Caret Line="133" TopLine="117"/>
+      </Position>
+      <Position>
+        <Filename Value="RestServer.lpr"/>
+        <Caret Line="31" Column="21" TopLine="17"/>
       </Position>
     </JumpHistory>
     <RunParams>

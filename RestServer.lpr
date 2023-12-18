@@ -28,6 +28,7 @@ var
   body: Variant;
 begin
   try
+    writeln(Req.Body);
     NFe        := NFeService.readXML(Req.Body);
     body       := NFeService.NFeToVariant(NFe);
     Res.Send(body);
@@ -42,7 +43,7 @@ begin
       .Use(Compression())
       .Use(Jhonson('UTF-8'));
     NFeService := TNfeService.Create;
-    THorse.Get('/NFe', GetNFe);
+    THorse.Post('/NFe', GetNFe);
     THorse.Host := HOST;
     THorse.Port := PORT;
     THorse.Listen;
