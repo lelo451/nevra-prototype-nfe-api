@@ -28,7 +28,6 @@ var
   body: Variant;
 begin
   try
-    writeln(Req.Body);
     NFe        := NFeService.readXML(Req.Body);
     body       := NFeService.NFeToVariant(NFe);
     Res.Send(body);
